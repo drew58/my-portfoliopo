@@ -18,7 +18,7 @@ const Projects = () => {
             title="Project 1"
             imageSrc={Picture5}
             description="This is a Demo of a clothing website. This was done making use of the frontend developer tools which includes HTML for the structure of the webpage, CSS for styling and making the website look attractive, and Bootstrap which is a framework used to organize your website such that each element is wrapped in columns and rows."
-            link="https://github.com/drew58/cloth-website"
+            link="https://github.com/drew58/Clothing-websitee.git"
           />
           <Project
             title="Project 2"
